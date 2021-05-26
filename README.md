@@ -94,7 +94,7 @@ A substantial improvement over the last model, the accuracy reaches 96%. However
 
 
 This time, instead of having a more complex classification neuron network, a more complex Convolutional Neural Networks is deployed.
-Since the Convolutional Neural Networks is doing the 'heavy lifting' in this case, the neuron network for classification shouldn't require much complexity to do the task. A simple model is applied with low number of neurons.
+Since the Convolutional Neural Networks is doing the 'heavy lifting' in this case, the neuron network for classification shouldn't require much complexity to do the task. A simple model is applied with low number of neurons for classification.
 
 ![image](https://user-images.githubusercontent.com/80243823/119230076-43d76e80-bb4d-11eb-8c9c-3cfeadf57690.png)
 ![image](https://user-images.githubusercontent.com/80243823/119230283-1808b880-bb4e-11eb-9a69-2d62f081bf6d.png)
