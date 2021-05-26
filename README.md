@@ -72,7 +72,7 @@ After extracting the important features of an image, a neuron network for classi
 
 ## **Model performance**
 
-This is the learning progress of the model and its accuracy at different stages. The initial plan is to train the model 20 times (20 epochs). If further training doesn't improve its accuracy by a meaningful amount, the training would stop earlier after a few observations.
+The learning progress of the model and its accuracy at different stages are shown below. The initial plan is to train the model 20 times (20 epochs). If further training doesn't improve its accuracy by a meaningful amount, the training would stop earlier after a few observations.
 
 
 First, a simple model is trained and tested.
