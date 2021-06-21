@@ -118,5 +118,3 @@ The result, however, is not satisfactory as the accuracy is only about 64%. As t
 
 ## **Result**
 A neuron network with over 95% accuracy in detecting presence of Malaria in a thin blood smear slide image is trained. As the network can process thousands of images in an instant,  the burden for microscopists in resource-constrained regions is sucessfully reduced and accuracy of diagnosis of Malaria improved by applying Deep Learning and utilizing Neural Networks. 
-
-ll
