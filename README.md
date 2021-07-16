@@ -3,7 +3,7 @@
  
 ## **The Goal**
 To reduce the burden for microscopists in resource-constrained regions and improve the accuracy of diagnosis of Malaria by applying Deep Learning and utilizing Neural Networks.
-
+ 
  
 ## **Background**
 
